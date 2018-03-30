@@ -14,9 +14,9 @@ Known (input):
 -	t (elevation angle of PA)
 
 Therefore:
-xp = xa + L*sin(B_rad)*sin(a) / sin(A_rad+B_rad);
-yp = ya + L*sin(B_rad)*cos(a) / sin(A_rad+B_rad);
-zp = za + L*sin(B_rad)*tan(t) / sin(A_rad+B_rad);
+-	xp = xa + L*sin(B_rad)*sin(a) / sin(A_rad+B_rad);
+-	yp = ya + L*sin(B_rad)*cos(a) / sin(A_rad+B_rad);
+-	zp = za + L*sin(B_rad)*tan(t) / sin(A_rad+B_rad);
                                          
 					
                                         |' P(xp,yp,zp)
